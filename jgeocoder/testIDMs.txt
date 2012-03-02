@@ -1,0 +1,9 @@
+test-sen000001
+Key: test-sen000001
+ 
+Location: 
+  0: 
+    0: 
+      Src: 
+        0: 0
+      Street: COFFEE AND PIZZA CAFE, 9 BROADWAY PMB 66349, SOMERVILLE MA 02145

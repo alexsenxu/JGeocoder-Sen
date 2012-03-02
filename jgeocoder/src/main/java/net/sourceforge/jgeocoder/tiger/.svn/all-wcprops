@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jgeocoder/!svn/ver/236/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger
+END
+JGeocoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jgeocoder/!svn/ver/236/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger/JGeocoder.java
+END
+H2DbDataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jgeocoder/!svn/ver/168/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger/H2DbDataSourceFactory.java
+END
+TigerLineDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jgeocoder/!svn/ver/159/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger/TigerLineDao.java
+END
+ZipCodesDb.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jgeocoder/!svn/ver/236/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger/ZipCodesDb.java
+END
+Geocoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jgeocoder/!svn/ver/207/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger/Geocoder.java
+END
+JGeocoderConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jgeocoder/!svn/ver/158/jgeocoder/src/main/java/net/sourceforge/jgeocoder/tiger/JGeocoderConfig.java
+END

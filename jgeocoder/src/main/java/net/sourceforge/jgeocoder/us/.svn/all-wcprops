@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jgeocoder/!svn/ver/234/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us
+END
+RegexLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/jgeocoder/!svn/ver/234/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/RegexLibrary.java
+END
+AddressStandardizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jgeocoder/!svn/ver/234/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/AddressStandardizer.java
+END
+SpellingCorrector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jgeocoder/!svn/ver/192/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/SpellingCorrector.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jgeocoder/!svn/ver/59/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/Utils.java
+END
+AddressParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jgeocoder/!svn/ver/234/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/AddressParser.java
+END
+AddressRegexLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/jgeocoder/!svn/ver/234/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/AddressRegexLibrary.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jgeocoder/!svn/ver/223/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/Data.java
+END
+SpecialData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jgeocoder/!svn/ver/214/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/SpecialData.java
+END
+AliasResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jgeocoder/!svn/ver/214/jgeocoder/src/main/java/net/sourceforge/jgeocoder/us/AliasResolver.java
+END

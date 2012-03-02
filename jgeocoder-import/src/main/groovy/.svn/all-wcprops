@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jgeocoder/!svn/ver/235/jgeocoder-import/src/main/groovy
+END
+JgeocoderImport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jgeocoder/!svn/ver/220/jgeocoder-import/src/main/groovy/JgeocoderImport.groovy
+END
+city-alias.zip
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jgeocoder/!svn/ver/195/jgeocoder-import/src/main/groovy/city-alias.zip
+END
+zip_codes.zip
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jgeocoder/!svn/ver/74/jgeocoder-import/src/main/groovy/zip_codes.zip
+END
+county.zip
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jgeocoder/!svn/ver/235/jgeocoder-import/src/main/groovy/county.zip
+END
+Test.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jgeocoder/!svn/ver/117/jgeocoder-import/src/main/groovy/Test.groovy
+END
+TigerTable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jgeocoder/!svn/ver/17/jgeocoder-import/src/main/groovy/TigerTable.groovy
+END
+TigerDefinition.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jgeocoder/!svn/ver/17/jgeocoder-import/src/main/groovy/TigerDefinition.groovy
+END
+Config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jgeocoder/!svn/ver/220/jgeocoder-import/src/main/groovy/Config.groovy
+END
+city_state.zip
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jgeocoder/!svn/ver/74/jgeocoder-import/src/main/groovy/city_state.zip
+END
+compact.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jgeocoder/!svn/ver/220/jgeocoder-import/src/main/groovy/compact.groovy
+END
+grepcity.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jgeocoder/!svn/ver/194/jgeocoder-import/src/main/groovy/grepcity.groovy
+END
+TigerColumn.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jgeocoder/!svn/ver/17/jgeocoder-import/src/main/groovy/TigerColumn.groovy
+END
+ZipcodeImport.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jgeocoder/!svn/ver/235/jgeocoder-import/src/main/groovy/ZipcodeImport.groovy
+END
+import_tiger_main.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jgeocoder/!svn/ver/150/jgeocoder-import/src/main/groovy/import_tiger_main.groovy
+END
